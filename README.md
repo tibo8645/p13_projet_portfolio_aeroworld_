@@ -53,26 +53,26 @@ Le projet de candidature au poste de Chef de Projet DATA pour AEROWORLD a été 
 
 ## Synthèse des projets personnels du candidat les plus pertinents pour AEROWORLD : 
 
-### Projet 7 - Tableau de bord de suivi de projets - Power BI
+### Projet 7 - Tableau de bord de suivi de projets - Power BI <br>
 <a href="https://github.com/tibo8645/p7_dashboard_powerbi_reporting_avancement_projets" target="_blank">**lien vers le Projet 7** </a> <br>
 **Contenu :** cadrage du besoin, dashboard interactif de suivi de portefeuille de projets, UX poussé
 
 
-### Projet 10 - Analyse mondiale de l'accès à l'eau potable avec Power BI
+### Projet 10 - Analyse mondiale de l'accès à l'eau potable avec Power BI <br>
 <a href="https://github.com/tibo8645/p10_dashboard_powerbi_consulting_eau_potable_situation_mondiale" target="_blank">**lien vers le Projet 10** </a> <br>
 **Contenu :** Consulting expertise data, tableau de bord interactif, storytelling
 
 
-### Projet 8 - Automatisation d'un diagnostic égalité femmes-hommes avec KNIME 
+### Projet 8 - Automatisation d'un diagnostic égalité femmes-hommes avec KNIME <br>
 <a href="https://github.com/tibo8645/p8_conformite_rgpd_analyse_indicateurs_egalite_hommes_femmes_avec_knime" target="_blank">**lien vers le Projet 8** </a> <br>
 **Contenu :** Contexte RGPD, anonymisation/pseudonimisation des données, workflow KNIME (ETL)
 
 
-### Projet 12 - Détection automatique de faux billets pour l'ONCFM 
+### Projet 12 - Détection automatique de faux billets pour l'ONCFM <br>
 <a href="https://github.com/tibo8645/p12_detection_faux_billets_de_banque_python_machine_learning_classification" target="_blank">**lien vers le Projet 12** </a> <br>
 **Contenu :** Machine Learning - modélisation prédictive, analyse exploratoire poussée, tests statistiques, regression linéaire
 
 
-### Projet 5 - Base de données immobilière - SQLite
+### Projet 5 - Base de données immobilière - SQLite <br>
 <a href="https://github.com/tibo8645/p5_requetes_bases_donnees_immobilieres_sql" target="_blank">**lien vers le Projet 5** </a> <br>
 **Contenu :** Conception de base de données relationnelles, requêtes SQL avancées, procédures
