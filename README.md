@@ -53,7 +53,7 @@ Le projet de candidature au poste de Chef de Projet DATA pour AEROWORLD a été 
 
 ## Synthèse des projets personnels du candidat les plus pertinents pour AEROWORLD : 
 
-### Projet 7 - Tableau de bord de suivi de projets - Power BI###  <a href="https://github.com/tibo8645/p7_dashboard_powerbi_reporting_avancement_projets" target="_blank">**lien vers le Projet 7** </a>
+### Projet 7 - Tableau de bord de suivi de projets - Power BI ***  <a href="https://github.com/tibo8645/p7_dashboard_powerbi_reporting_avancement_projets" target="_blank">**lien vers le Projet 7** </a> ***
 **Contenu :** cadrage du besoin, dashboard interactif de suivi de portefeuille de projets, UX poussé
 
 
