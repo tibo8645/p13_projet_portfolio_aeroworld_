@@ -29,7 +29,8 @@ Le projet de candidature au poste de Chef de Projet DATA pour AEROWORLD a été 
 
 <a href="https://github.com/tibo8645/p13_projet_portfolio_aeroworld_/blob/main/planning_gantt_projet_portfolio.pbix" target="_blank">**Gantt du projet** </a>
 
-**Outils de suivi quotidien du projet sous Notion :** XXXXXXX
+<a href="https://github.com/tibo8645/p13_projet_portfolio_aeroworld_/blob/main/reporting_notion.pdf" target="_blank">**Reporting Notion** </a>
+
 
 4. **Stratégie de Veille technologique / méthodologique :**
    - Exemple de veille technologique/méthodologique pertinente pour AEROWORLD
