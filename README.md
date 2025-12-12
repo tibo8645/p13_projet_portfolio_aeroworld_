@@ -1,5 +1,5 @@
 # Portfolio Data Analyst - Candidature AEROWORLD - Thibaut OBLE
-Bienvenue dans le portfolio de candidature au poste de Chef de Projet DATA pour AEROWORLD. Ce portfolio met en avant mes compétences, expériences et réalisations pertinentes pour répondre aux besoins spécifiques de l'entreprise tels que définis dans leur cahier des charges.
+Bienvenue dans le portfolio de candidature au poste de Chef de Projet DATA pour AEROWORLD. Ce portfolio met en avant mes compétences, expériences et réalisations pour répondre aux besoins spécifiques de l'entreprise tels que définis dans votre cahier des charges.
 
 ## 🗂️ Méthodologie
 Le projet de candidature au poste de Chef de Projet DATA pour AEROWORLD a été mené en plusieurs étapes clés :
