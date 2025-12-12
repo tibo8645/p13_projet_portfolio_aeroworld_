@@ -9,6 +9,7 @@ Le projet de candidature au poste de Chef de Projet DATA pour AEROWORLD a été 
    - Liste des livrables attendus en lien avec ces compétences (profil, veille métier, formation, documentation)
 
 **Livrable 1 - Note de cadrage des besoins métiers:** 
+<a href="https://github.com/tibo8645/p13_projet_portfolio_aeroworld_/blob/main/analyse_besoins_metiers.pdf" target="_blank">**Livrable 1 - Note de cadrage des besoins métiers:** </a>
 
 2. **Organisation du portfolio**
    - Traduction de la note de cadrage des besoins en mind map via Whimsical
