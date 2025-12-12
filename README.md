@@ -8,14 +8,15 @@ Le projet de candidature au poste de Chef de Projet DATA pour AEROWORLD a été 
    - Identification des compétences requises pour le poste
    - Liste des livrables attendus en lien avec ces compétences (profil, veille métier, formation, documentation)
 
-**Livrable 1 - Note de cadrage des besoins métiers:** 
-<a href="https://github.com/tibo8645/p13_projet_portfolio_aeroworld_/blob/main/analyse_besoins_metiers.pdf" target="_blank">**Livrable 1 - Note de cadrage des besoins métiers:** </a>
+<a href="https://github.com/tibo8645/p13_projet_portfolio_aeroworld_/blob/main/analyse_besoins_metiers.pdf" target="_blank">**Note de cadrage des besoins métiers** </a>
+
 
 2. **Organisation du portfolio**
    - Traduction de la note de cadrage des besoins en mind map via Whimsical
    - Mise en avant des compétences resquises, des livrables attendus et des projets du candidat qui illustrent/complètent ces compétences
 
-**Mindmap d'organisation du projet :** ![==>](https://github.com/tibo8645/p13_projet_portfolio_aeroworld/blob/main/mindmap_projet_portfolio.png)
+<a href="https://github.com/tibo8645/p13_projet_portfolio_aeroworld/blob/main/mindmap_projet_portfolio.png" target="_blank">**Mindmap d'organisation du projet** </a>
+
 
 3. **Traduction en Cahier des Charges Fonctionnel = Cadrage projet**
    - définition des objectifs du portfolio
@@ -23,28 +24,30 @@ Le projet de candidature au poste de Chef de Projet DATA pour AEROWORLD a été 
    - planning prévisionnel, ressources nécessaires, risques identifiés
    - Outils de suivi quotidien du projet sous Notion
 
-**Livrable 2 - Cahier des charges fonctionnel :** XXXXXXX
-**Livrable 3 - Gantt du projet (planning prévisionnel) :** XXXXXXX
+<a href="https://github.com/tibo8645/p13_projet_portfolio_aeroworld_/blob/main/cahier_des_charges_fonctionnel.pdf" target="_blank">**Cahier des charges fonctionnel** </a>
+
+<a href="https://github.com/tibo8645/p13_projet_portfolio_aeroworld_/blob/main/planning_gantt_projet_portfolio.pbix" target="_blank">**Gantt du projet** </a>
+
 **Outils de suivi quotidien du projet sous Notion :** XXXXXXX
 
 4. **Stratégie de Veille technologique / méthodologique :**
-   - Liste des sources d'information pertinentes (blogs, forums, réseaux sociaux, revues spécialisées)
-   - Fréquence de veille et outils utilisés
+   - Exemple de veille technologique/méthodologique pertinente pour AEROWORLD
 
-**Livrable 4 - Tableau de bord Power BI Veille Technologique :** XXXXXXX
+<a href="https://github.com/tibo8645/p13_projet_portfolio_aeroworld_/blob/main/dashboard_veille_technologique.pbix" target="_blank">**Tableau de bord Power BI Veille Technologique** </a>
 
 5. **Supports de formation**
    - rendre les utilisateurs autonomes sur la création de graphiques avancés avec Power BI
+   - création de vidéos tutorielles et d'une procédure pas à pas
     
-**Livrable 5 - Vidéo de formation :** XXXXXXX
-**Livrable 6 - Procédure de formation :** XXXXXXX
+<a href="https://www.loom.com/share/02a1448edd7a4b709cadbc83a065d8e9" target="_blank">**Livrable 5 - Vidéo de formation Power BI** </a>
+<a href="https://github.com/tibo8645/p13_projet_portfolio_aeroworld_/blob/main/procedure_visuel_power_bi.pdf">**Procédure de formation Power BI** </a>
 
 6. **Projets réalisés par le candidat illustrant les compétences clés requises pour le poste**
    - création d'une matrice de compétences exhaustives des projets réalisés par le candidat
    - segment de filtres pour identifier les compétences et projets en lien avec les attentes d'AEROWORLD
    - lien des projets hébergés sur GitHub intégré dans le power BI
 
-**Matrice de compétences projet du candidat :** XXXXXXX
+<a href="https://github.com/tibo8645/p13_projet_portfolio_aeroworld_/blob/main/matrice_de_competences_projets.pbix">**Matrice de compétences projet du candidat :** </a>
 
 ---
 
