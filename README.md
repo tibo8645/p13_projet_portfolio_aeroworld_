@@ -15,7 +15,7 @@ Le projet de candidature au poste de Chef de Projet DATA pour AEROWORLD a été 
    - Traduction de la note de cadrage des besoins en mind map via Whimsical
    - Mise en avant des compétences resquises, des livrables attendus et des projets du candidat qui illustrent/complètent ces compétences
 
-<a href="https://github.com/tibo8645/p13_projet_portfolio_aeroworld/blob/main/mindmap_projet_portfolio.png" target="_blank">**Mindmap d'organisation du projet** </a>
+<a href="https://github.com/tibo8645/p13_projet_portfolio_aeroworld_/blob/main/mindmap_organisation_projet.png" target="_blank">**Mindmap d'organisation du projet** </a>
 
 
 3. **Traduction en Cahier des Charges Fonctionnel = Cadrage projet**
