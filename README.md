@@ -40,7 +40,7 @@ Le projet de candidature au poste de Chef de Projet DATA pour AEROWORLD a été 
    - rendre les utilisateurs autonomes sur la création de graphiques avancés avec Power BI
    - création de vidéos tutorielles et d'une procédure pas à pas
     
-<a href="https://www.loom.com/share/02a1448edd7a4b709cadbc83a065d8e9" target="_blank">**Livrable 5 - Vidéo de formation Power BI** </a>
+<a href="https://www.loom.com/share/02a1448edd7a4b709cadbc83a065d8e9" target="_blank">**Vidéo de formation Power BI** </a>
 <a href="https://github.com/tibo8645/p13_projet_portfolio_aeroworld_/blob/main/procedure_visuel_power_bi.pdf">**Procédure de formation Power BI** </a>
 
 6. **Projets réalisés par le candidat illustrant les compétences clés requises pour le poste**
