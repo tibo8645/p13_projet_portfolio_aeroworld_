@@ -50,7 +50,7 @@ Le projet de candidature au poste de Chef de Projet DATA pour AEROWORLD a été 
    - segment de filtres pour identifier les compétences et projets en lien avec les attentes d'AEROWORLD
    - lien des projets hébergés sur GitHub intégré dans le power BI
 
-<a href="https://github.com/tibo8645/p13_projet_portfolio_aeroworld_/blob/main/cv_matrice_de_competences_projets.pbi">**Matrice de compétences projet du candidat :** </a>
+<a href="https://github.com/tibo8645/p13_projet_portfolio_aeroworld_/blob/main/cv_matrice_de_competences_projets.pbix">**Matrice de compétences projet du candidat :** </a>
 
 ---
 
